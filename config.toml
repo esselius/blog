@@ -1,0 +1,4 @@
+baseURL = "https://esselius.dev/"
+languageCode = "en-us"
+title = "esselius"
+theme = "ezhil"
