@@ -2,4 +2,6 @@ baseURL = "https://esselius.dev/"
 languageCode = "en-us"
 title = "esselius"
 theme = "ezhil"
+
 googleAnalytics = "UA-145239602-1"
+enableRobotsTXT = true
